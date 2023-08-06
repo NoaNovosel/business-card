@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.card{
+    width: 400px;
+    margin: 0px auto;
+    
+    padding: 20px;
+    background-color: #ddebf8;
+    color: #2b2839;
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    border-bottom: 6px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.bborder{
+    border: 1px dotted rgb(0, 110, 255);
+    
+}
